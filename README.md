@@ -1,1 +1,4 @@
-istioctl1.7 install -f ./istio-operator.yaml
+# Verify Fips Istio
+
+## Install goversion
+`go get -u github.com/rsc/goversion`
